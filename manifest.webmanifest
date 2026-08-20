@@ -1,0 +1,16 @@
+{
+  "name": "Muadil İlaç",
+  "short_name": "Muadil İlaç",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F9F8",
+  "theme_color": "#0A6F71",
+  "icons": [
+    {
+      "src": "/manus-storage/muadililac-mobile-logo_0df6e22f.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
