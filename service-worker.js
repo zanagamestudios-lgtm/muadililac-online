@@ -1,4 +1,4 @@
-const CACHE_NAME = "muadil-ilac-shell-v1";
+const CACHE_NAME = "muadil-ilac-shell-v2";
 
 self.addEventListener("install", () => {
   self.skipWaiting();
