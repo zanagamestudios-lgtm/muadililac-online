@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /favoriler
+Disallow: /ayarlar
+Disallow: /destek
+Disallow: /reklamlar
+
+Sitemap: https://muadililac.online/sitemap.xml
