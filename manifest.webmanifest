@@ -1,6 +1,6 @@
 {
-  "name": "Muadil İlaç",
-  "short_name": "Muadil İlaç",
+  "name": "Muadil İlaç Web Sürümü",
+  "short_name": "Muadil İlaç Web",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#F7F9F8",
